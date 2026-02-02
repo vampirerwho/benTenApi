@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Heatblast",
+    "slug": "heatblast",
+    "species": "Pyronite",
+    "homeworld": "Pyros",
+    "powers": ["Fire manipulation", "Flight"],
+    "weaknesses": ["Water"],
+    "series": ["Original Series"],
+    "firstAppearance": "And Then There Were 10"
+  },
+  {
+    "name": "XLR8",
+    "slug": "xlr8",
+    "species": "Kineceleran",
+    "homeworld": "Kinet",
+    "powers": ["Super speed"],
+    "weaknesses": ["Friction"],
+    "series": ["Original Series"],
+    "firstAppearance": "And Then There Were 10"
+  }
+]
