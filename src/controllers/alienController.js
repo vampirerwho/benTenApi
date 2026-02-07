@@ -38,7 +38,7 @@ exports.getAllAliens = async (req, res) => {
     // Select fields
     const fields =
       req.query.fields?.split(",").join(" ") ||
-      "name slug species homeworld series firstAppearance";
+      "name slug species homeworld series firstAppearance image";
 
     const aliens = await Alien.find(filter)
       .select(fields)
@@ -107,7 +107,7 @@ exports.getAllAliensPaginated = async (req, res) => {
     // Select fields
     const fields =
       req.query.fields?.split(",").join(" ") ||
-      "name slug species homeworld series firstAppearance";
+      "name slug species homeworld series firstAppearance image";
 
     const totalAliens = await Alien.countDocuments(filter);
     const aliens = await Alien.find(filter)
