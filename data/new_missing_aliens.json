@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Articguana",
+    "slug": "articguana",
+    "species": "Polar Manzardill",
+    "homeworld": "X'Nelli",
+    "powers": [
+      "Cryogenic freezing",
+      "Arctic survival",
+      "Ice slide generation"
+    ],
+    "weaknesses": ["Heat", "Fire"],
+    "series": ["Original Series"],
+    "firstAppearance": "The Big Tick"
+  },
+  {
+    "name": "Toepick",
+    "slug": "toepick",
+    "species": "Unknown",
+    "homeworld": "Unknown",
+    "powers": [
+      "Nightmarish face",
+      "Fear inducement",
+      "Enhanced strength"
+    ],
+    "weaknesses": [
+      "Certain beings immune to fear",
+      "Vision based"
+    ],
+    "series": ["Omniverse"],
+    "firstAppearance": "Special Delivery"
+  },
+  {
+    "name": "Walkatrout",
+    "slug": "walkatrout",
+    "species": "Ickthyperambuloid",
+    "homeworld": "Gilli-Perambulous Promenade",
+    "powers": [
+      "Slippery body",
+      "Enhanced durability",
+      "Enhanced acrobatics",
+      "Underwater breathing"
+    ],
+    "weaknesses": ["Small size", "Weak in combat"],
+    "series": ["Omniverse"],
+    "firstAppearance": "Outbreak"
+  },
+  {
+    "name": "Shrieker",
+    "slug": "shrieker",
+    "species": "Shriek-Freak",
+    "homeworld": "Unknown",
+    "powers": [
+      "Sonic scream",
+      "Sound manipulation",
+      "Enhanced hearing"
+    ],
+    "weaknesses": ["Silence", "Deafness"],
+    "series": ["Alien Force"],
+    "firstAppearance": "Plumber's Helpers"
+  },
+  {
+    "name": "Buzzshock",
+    "slug": "buzzshock",
+    "species": "Nosedeenian",
+    "homeworld": "Nosydeenia",
+    "powers": [
+      "Electric manipulation",
+      "Miniature size",
+      "Flight",
+      "Energy absorption"
+    ],
+    "weaknesses": ["Water", "Insulators"],
+    "series": [
+      "Original Series",
+      "Ultimate Alien",
+      "Reboot"
+    ],
+    "firstAppearance": "Don't Drink the Water"
+  },
+  {
+    "name": "Hovercraft",
+    "slug": "hovercraft",
+    "species": "Unknown Aerial Being",
+    "homeworld": "Unknown",
+    "powers": [
+      "Levitation",
+      "Flight",
+      "Sonic manipulation"
+    ],
+    "weaknesses": ["Electromagnetic interference"],
+    "series": ["Reboot"],
+    "firstAppearance": "Alien Reveal"
+  },
+  {
+    "name": "Arctiguana",
+    "slug": "arctiguana",
+    "species": "Polar Manzardill",
+    "homeworld": "X'Nelli",
+    "powers": [
+      "Cryogenic freezing",
+      "Ice manipulation",
+      "Arctic adaptation"
+    ],
+    "weaknesses": ["Heat sources", "Lava"],
+    "series": ["Ultimate Alien", "Omniverse"],
+    "firstAppearance": "The Purge"
+  },
+  {
+    "name": "Binary 8",
+    "slug": "binary-8",
+    "species": "Octonaut",
+    "homeworld": "Cyber Moon",
+    "powers": [
+      "Technology manipulation",
+      "Binary control",
+      "Energy projection"
+    ],
+    "weaknesses": ["EMP", "Computer viruses"],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "Duped"
+  },
+  {
+    "name": "Decoy Queen",
+    "slug": "decoy-queen",
+    "species": "Mimetic Entity",
+    "homeworld": "Unknown",
+    "powers": [
+      "Duplication",
+      "Shape-shifting",
+      "Drone generation"
+    ],
+    "weaknesses": ["Energy attacks"],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "A Knight to Remember"
+  },
+  {
+    "name": "Amphibian",
+    "slug": "amphibian",
+    "species": "Amperi",
+    "homeworld": "Amperi",
+    "powers": [
+      "Electricity generation",
+      "Water breathing",
+      "Electrical immunity"
+    ],
+    "weaknesses": ["Rubber", "Insulators"],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "The Creature From Planet X"
+  },
+  {
+    "name": "Kevin 11",
+    "slug": "kevin-11",
+    "species": "Osmosian (Human-Hybrid)",
+    "homeworld": "Earth",
+    "powers": [
+      "Energy absorption",
+      "Elemental mimicry",
+      "Enhanced durability"
+    ],
+    "weaknesses": ["Energy overload", "Psychic attacks"],
+    "series": [
+      "Alien Force",
+      "Ultimate Alien",
+      "Omniverse"
+    ],
+    "firstAppearance": "Alien Force"
+  },
+  {
+    "name": "Rook Blonko",
+    "slug": "rook-blonko",
+    "species": "Revonnahgander",
+    "homeworld": "Revonnah",
+    "powers": [
+      "Omnitrix user",
+      "Enhanced durability",
+      "Proto-tool usage"
+    ],
+    "weaknesses": ["Similar to Ben's transformations"],
+    "series": ["Omniverse"],
+    "firstAppearance": "Omniverse Part 1"
+  },
+  {
+    "name": "Ultimate Kevin",
+    "slug": "ultimate-kevin",
+    "species": "Osmosian (Ultimate)",
+    "homeworld": "Earth",
+    "powers": [
+      "Massive power absorption",
+      "Multiple simultaneous absorptions",
+      "Combat skills"
+    ],
+    "weaknesses": ["Energy balance"],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "The Ultimate Enemy"
+  },
+  {
+    "name": "Vilgax",
+    "slug": "vilgax",
+    "species": "Chimera Sui Generis",
+    "homeworld": "Unknown",
+    "powers": [
+      "Super strength",
+      "Durability",
+      "Technology mastery",
+      "Regeneration"
+    ],
+    "weaknesses": [
+      "Specific alien powers",
+      "Ben's team coordination"
+    ],
+    "series": ["All Series"],
+    "firstAppearance": "Zombozo"
+  },
+  {
+    "name": "Malware",
+    "slug": "malware",
+    "species": "Sentient Virus",
+    "homeworld": "Created",
+    "powers": [
+      "Technology corruption",
+      "Evolution",
+      "Adaptation to attacks"
+    ],
+    "weaknesses": ["Pure energy", "Factory reset"],
+    "series": ["Omniverse"],
+    "firstAppearance": "Malware"
+  },
+  {
+    "name": "Aggregor",
+    "slug": "aggregor",
+    "species": "Aggregor Species",
+    "homeworld": "Unknown",
+    "powers": [
+      "Power absorption",
+      "Fusion transformation",
+      "Combat mastery"
+    ],
+    "weaknesses": ["Overload from excessive powers"],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "The Forge of Creation"
+  },
+  {
+    "name": "Spectra",
+    "slug": "spectra",
+    "species": "Specian",
+    "homeworld": "Spectria",
+    "powers": [
+      "Light spectrum manipulation",
+      "Invisibility",
+      "Light projection"
+    ],
+    "weaknesses": ["Darkness", "Absence of light"],
+    "series": ["Omniverse"],
+    "firstAppearance": "Hot Wheels"
+  },
+  {
+    "name": "Ben 10,000",
+    "slug": "ben-10000",
+    "species": "Human (Master Omnitrix User)",
+    "homeworld": "Earth",
+    "powers": [
+      "All Omnitrix aliens",
+      "Expert mastery and experience"
+    ],
+    "weaknesses": ["Various per form"],
+    "series": [
+      "Original Series",
+      "Omniverse",
+      "Future Timeline"
+    ],
+    "firstAppearance": "Ken 10"
+  },
+  {
+    "name": "Ken Tennyson",
+    "slug": "ken-tennyson",
+    "species": "Human (Omnitrix User)",
+    "homeworld": "Earth",
+    "powers": [
+      "Omnitrix transformations",
+      "Genetic tracking"
+    ],
+    "weaknesses": ["Relative inexperience", "Age"],
+    "series": ["Original Series", "Future Timeline"],
+    "firstAppearance": "Ken 10"
+  },
+  {
+    "name": "Gwen Tennyson (Anodite)",
+    "slug": "gwen-tennyson-anodite",
+    "species": "Anodite (Hybrid)",
+    "homeworld": "Earth/Anodyne",
+    "powers": [
+      "Mana manipulation",
+      "Reality warping",
+      "Levitation",
+      "Energy projection"
+    ],
+    "weaknesses": ["Magic negation", "Anti-mana attacks"],
+    "series": [
+      "Alien Force",
+      "Ultimate Alien",
+      "Omniverse"
+    ],
+    "firstAppearance": "Alien Force"
+  },
+  {
+    "name": "Ultimate Way Big",
+    "slug": "ultimate-way-big",
+    "species": "To'kustar",
+    "homeworld": "Unknown",
+    "powers": [
+      "Cosmic ray projection",
+      "Gigantic size transformation",
+      "Space-time awareness"
+    ],
+    "weaknesses": ["Unknown"],
+    "series": ["Omniverse"],
+    "firstAppearance": "A New Dawn"
+  },
+  {
+    "name": "Dragonfly",
+    "slug": "dragonfly",
+    "species": "Unknown Insectoid",
+    "homeworld": "Unknown",
+    "powers": [
+      "Flight",
+      "Aerial agility",
+      "Insect abilities"
+    ],
+    "weaknesses": ["Bug spray", "Pesticides"],
+    "series": ["Reboot"],
+    "firstAppearance": "Reboot Series"
+  },
+  {
+    "name": "Hummingbird",
+    "slug": "hummingbird",
+    "species": "Ornithomorphic Humanoid",
+    "homeworld": "Unknown",
+    "powers": ["Flight", "High-speed movement", "Hovering"],
+    "weaknesses": ["Unknown"],
+    "series": ["Reboot"],
+    "firstAppearance": "Reboot Series"
+  },
+  {
+    "name": "Virus",
+    "slug": "virus",
+    "species": "Microscopic Organism",
+    "homeworld": "Unknown",
+    "powers": ["Size variation", "Infection", "Adaptation"],
+    "weaknesses": ["Antibodies", "Antivirals"],
+    "series": ["Reboot"],
+    "firstAppearance": "Reboot Series"
+  },
+  {
+    "name": "Albedo",
+    "slug": "albedo",
+    "species": "Galvan",
+    "homeworld": "Galvan Prime",
+    "powers": [
+      "Omnitrix mastery",
+      "All alien transformations",
+      "Scientific genius"
+    ],
+    "weaknesses": ["Self-destructive nature"],
+    "series": [
+      "Alien Force",
+      "Ultimate Alien",
+      "Omniverse"
+    ],
+    "firstAppearance": "Ultimate Alien"
+  },
+  {
+    "name": "Vilgax (Dwarf Star Powered)",
+    "slug": "vilgax-dwarf-star",
+    "species": "Chimera Sui Generis",
+    "homeworld": "Unknown",
+    "powers": [
+      "Enhanced strength",
+      "Dwarf star energy",
+      "Advanced technology"
+    ],
+    "weaknesses": ["Omnitrix aliens", "Team coordination"],
+    "series": ["Omniverse"],
+    "firstAppearance": "Special Delivery"
+  },
+  {
+    "name": "Psyphon",
+    "slug": "psyphon",
+    "species": "Psyphon Species",
+    "homeworld": "Unknown",
+    "powers": [
+      "Psychic abilities",
+      "Technology control",
+      "Enhanced intellect"
+    ],
+    "weaknesses": ["Strong psychic resistance"],
+    "series": ["Alien Force", "Ultimate Alien"],
+    "firstAppearance": "Alien Force"
+  },
+  {
+    "name": "Charmcaster",
+    "slug": "charmcaster",
+    "species": "Human (Magic User)",
+    "homeworld": "Earth",
+    "powers": [
+      "Magic",
+      "Spell casting",
+      "Artifact manipulation"
+    ],
+    "weaknesses": ["Anti-magic", "Technology disruption"],
+    "series": [
+      "Original Series",
+      "Alien Force",
+      "Ultimate Alien",
+      "Omniverse"
+    ],
+    "firstAppearance": "Gwen 10"
+  },
+  {
+    "name": "Rook Ben",
+    "slug": "rook-ben",
+    "species": "Human (Omnitrix User - Alternate Timeline)",
+    "homeworld": "Earth",
+    "powers": ["Omnitrix transformations"],
+    "weaknesses": ["Various per form"],
+    "series": ["Omniverse"],
+    "firstAppearance": "It's a Mad, Mad, Mad Ben World: Part 1"
+  },
+  {
+    "name": "Ben Prime",
+    "slug": "ben-prime",
+    "species": "Human (Omnitrix Master)",
+    "homeworld": "Earth",
+    "powers": ["Master of all Omnitrix aliens"],
+    "weaknesses": ["Various per form"],
+    "series": [
+      "Original Series",
+      "Alien Force",
+      "Ultimate Alien",
+      "Omniverse"
+    ],
+    "firstAppearance": "And Then There Were 10"
+  }
+]

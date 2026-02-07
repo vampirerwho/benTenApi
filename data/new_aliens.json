@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Toepick",
+    "slug": "toepick",
+    "species": "Onomatopoeia",
+    "homeworld": "Unknown",
+    "powers": [
+      "Disgusting appearance",
+      "Disgust manipulation"
+    ],
+    "weaknesses": [],
+    "series": ["Omniverse"],
+    "firstAppearance": "Of Predators and Prey",
+    "image": "https://static.wikia.nocookie.net/ben10/images/4/46/Toepick_Omniverse.png"
+  },
+  {
+    "name": "Walkatrout",
+    "slug": "walkatrout",
+    "species": "Unknown",
+    "homeworld": "Unknown",
+    "powers": ["Enhanced durability", "Physical strength"],
+    "weaknesses": [],
+    "series": ["Omniverse"],
+    "firstAppearance": "Walkatrout",
+    "image": "https://static.wikia.nocookie.net/ben10/images/2/28/Walkatrout_Omniverse.png"
+  },
+  {
+    "name": "Arctiguana",
+    "slug": "arctiguana",
+    "species": "Polar Manzardill",
+    "homeworld": "Glacius",
+    "powers": ["Ice manipulation", "Cold resistance"],
+    "weaknesses": ["Heat"],
+    "series": ["Ultimate Alien", "Omniverse"],
+    "firstAppearance": "Ultimate Alien",
+    "image": "https://static.wikia.nocookie.net/ben10/images/5/5d/Arctiguana_UA.png"
+  },
+  {
+    "name": "Buzzshock",
+    "slug": "buzzshock",
+    "species": "Megomelectrode",
+    "homeworld": "Unknown",
+    "powers": ["Electrokinesis", "Miniaturization"],
+    "weaknesses": [],
+    "series": ["Original Series", "Omniverse"],
+    "firstAppearance": "Buzzshock",
+    "image": "https://static.wikia.nocookie.net/ben10/images/e/e8/Buzzshock_OS.png"
+  },
+  {
+    "name": "Spitter",
+    "slug": "spitter",
+    "species": "Xenoceles",
+    "homeworld": "Unknown",
+    "powers": ["Acid projectiles"],
+    "weaknesses": [],
+    "series": ["Ultimate Alien"],
+    "firstAppearance": "Deepdive",
+    "image": "https://static.wikia.nocookie.net/ben10/images/3/33/Spitter_UA.png"
+  }
+]
