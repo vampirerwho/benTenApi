@@ -36,7 +36,11 @@ const limiter = rateLimit({
 app.use("/api", limiter);
 
 // Prevent NoSQL injection
-app.use(mongoSanitize());
+app.use(
+  mongoSanitize({
+    replaceWith: "_",
+  }),
+);
 
 // Prevent XSS
 app.use(xss());
